@@ -1,0 +1,87 @@
+{
+  "configs": [
+    {
+      "id": "c3a8f80f-c34b-49d7-bfe1-d7fe6e483da7",
+      "title": "Ideal College Dhanmondi",
+      "description": "65 Central Road, Dhanmondi",
+      "targetWidth": 1517,
+      "targetHeight": 1070,
+      "bubbleRadius": 16,
+      "bubbleDx": 73,
+      "bubbleDy": 51,
+      "minCircleRadius": 10,
+      "maxCircleRadius": 25,
+      "questionSetRowCount": 1,
+      "questionSetColumnCount": 4,
+      "questionSetSection": {
+        "x": 1080,
+        "y": 680,
+        "width": 350,
+        "height": 100,
+        "startQuestionNumber": 1
+      },
+      "answerSectionRowCount": 10,
+      "answerSections": [
+        {
+          "x": 80,
+          "y": 490,
+          "width": 300,
+          "height": 550,
+          "startQuestionNumber": 1
+        },
+        {
+          "x": 430,
+          "y": 490,
+          "width": 300,
+          "height": 550,
+          "startQuestionNumber": 1
+        },
+        {
+          "x": 780,
+          "y": 490,
+          "width": 300,
+          "height": 550,
+          "startQuestionNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "c6cad67e-bd08-4d91-af67-d552c766ad85",
+      "title": "BAF Shaheen College Kurmitola",
+      "description": "Dhaka Cantonment, Dhaka 1206",
+      "targetWidth": 1120,
+      "targetHeight": 1500,
+      "bubbleRadius": 10,
+      "bubbleDx": 41,
+      "bubbleDy": 75,
+      "minCircleRadius": 5,
+      "maxCircleRadius": 20,
+      "questionSetRowCount": 4,
+      "questionSetColumnCount": 1,
+      "questionSetSection": {
+        "x": 730,
+        "y": 380,
+        "width": 100,
+        "height": 200,
+        "startQuestionNumber": 1
+      },
+      "answerSectionRowCount": 15,
+      "answerSections": [
+        {
+          "x": 110,
+          "y": 300,
+          "width": 200,
+          "height": 1140,
+          "startQuestionNumber": 1
+        },
+        {
+          "x": 345,
+          "y": 300,
+          "width": 200,
+          "height": 1140,
+          "startQuestionNumber": 1
+        }
+      ]
+    }
+  ]
+}
