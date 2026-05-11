@@ -17,31 +17,31 @@
       "questionSetSection": {
         "x": 1040,
         "y": 630,
-        "width": 350,
+        "width": 400,
         "height": 130,
         "startQuestionNumber": 1
       },
       "answerSectionRowCount": 10,
       "answerSections": [
         {
-          "x": 60,
-          "y": 460,
+          "x": 80,
+          "y": 490,
           "width": 300,
-          "height": 580,
+          "height": 550,
           "startQuestionNumber": 1
         },
         {
-          "x": 400,
-          "y": 460,
+          "x": 430,
+          "y": 490,
           "width": 300,
-          "height": 580,
+          "height": 550,
           "startQuestionNumber": 1
         },
         {
-          "x": 740,
-          "y": 460,
+          "x": 780,
+          "y": 490,
           "width": 300,
-          "height": 580,
+          "height": 550,
           "startQuestionNumber": 1
         }
       ]
