@@ -16,32 +16,32 @@
       "questionSetColumnCount": 4,
       "questionSetSection": {
         "x": 1080,
-        "y": 660,
+        "y": 630,
         "width": 350,
-        "height": 100,
+        "height": 130,
         "startQuestionNumber": 1
       },
       "answerSectionRowCount": 10,
       "answerSections": [
         {
           "x": 80,
-          "y": 490,
+          "y": 460,
           "width": 300,
-          "height": 550,
+          "height": 580,
           "startQuestionNumber": 1
         },
         {
           "x": 430,
-          "y": 490,
+          "y": 460,
           "width": 300,
-          "height": 550,
+          "height": 580,
           "startQuestionNumber": 1
         },
         {
           "x": 780,
-          "y": 490,
+          "y": 460,
           "width": 300,
-          "height": 550,
+          "height": 580,
           "startQuestionNumber": 1
         }
       ]
