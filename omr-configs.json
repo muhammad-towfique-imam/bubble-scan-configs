@@ -3,7 +3,7 @@
     {
       "id": "c3a8f80f-c34b-49d7-bfe1-d7fe6e483da7",
       "title": "Ideal College Dhanmondi",
-      "version": "3",
+      "version": "4",
       "description": "65 Central Road, Dhanmondi",
       "targetWidth": 1517,
       "targetHeight": 1070,
@@ -15,7 +15,7 @@
       "questionSetRowCount": 1,
       "questionSetColumnCount": 4,
       "questionSetSection": {
-        "x": 1080,
+        "x": 1060,
         "y": 630,
         "width": 350,
         "height": 130,
@@ -24,21 +24,21 @@
       "answerSectionRowCount": 10,
       "answerSections": [
         {
-          "x": 80,
+          "x": 60,
           "y": 460,
           "width": 300,
           "height": 580,
           "startQuestionNumber": 1
         },
         {
-          "x": 430,
+          "x": 410,
           "y": 460,
           "width": 300,
           "height": 580,
           "startQuestionNumber": 1
         },
         {
-          "x": 780,
+          "x": 760,
           "y": 460,
           "width": 300,
           "height": 580,
